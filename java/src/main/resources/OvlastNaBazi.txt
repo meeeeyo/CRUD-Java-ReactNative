@@ -1,0 +1,2 @@
+grant all privileges on p3projekt. * to 'p3'@'localhost' identified by 'p3';
+alter table model auto_increment = 1;
